@@ -5,6 +5,10 @@
           {
             "version": "1.0",
             "update_link": "https://zylacx.github.io/brandejsIS_1.0.xpi"
+          },
+          {
+            "version": "1.1",
+            "update_link": "https://zylacx.github.io/brandejsIS_1.1.xpi"
           }
         ]
       }
